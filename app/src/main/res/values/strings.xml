@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">30 Days App</string>
+    <string name="day1">Day 1</string>
+    <string name="content_1">I am strong 1.</string>
+    <string name="description1">I am strong.</string>
+    <string name="day2">Day 2</string>
+    <string name="content_2">I am strong 2.</string>
+    <string name="description2">I believe in myself.</string>
+    <string name="day3">Day 3</string>
+    <string name="content_3">I am strong 3.</string>
+    <string name="description3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="day4">Day 4</string>
+    <string name="content_4">I am strong 4.</string>
+    <string name="description4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="day5">Day 5</string>
+    <string name="content_5">I am strong 5.</string>
+    <string name="description5">I have so much to be grateful for.</string>
+    <string name="day6">Day 6</string>
+    <string name="content_6">I am strong 6.</string>
+    <string name="description6">Good things are always coming into my life.</string>
+    <string name="day7">Day 7</string>
+    <string name="content_7">I am strong 7.</string>
+    <string name="description7">New opportunities await me at every turn.</string>
+    <string name="day8">Day 8</string>
+    <string name="content_8">I am strong 8.</string>
+    <string name="description8">I have the courage to follow my heart.</string>
+    <string name="day9">Day 9</string>
+    <string name="content_9">I am strong 9.</string>
+    <string name="description9">Things will unfold at precisely the right time.</string>
+    <string name="day10">Day 10</string>
+    <string name="content_10">I am strong 10.</string>
+    <string name="description10">I will be present in all the moments that this day brings.</string>
+</resources>
